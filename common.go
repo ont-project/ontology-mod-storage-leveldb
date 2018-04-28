@@ -25,7 +25,7 @@ import (
 	"github.com/ont-project/ontology-framework/common/di"
 	"github.com/ont-project/ontology-framework/core"
 	"github.com/ont-project/ontology-framework/core/channel"
-	"github.com/ont-project/ontology/runtime"
+	"github.com/ont-project/ontology/engine/runtime"
 )
 
 type StorageModule struct {
